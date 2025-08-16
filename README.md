@@ -69,17 +69,17 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+```
 
 
-
-##⚙️ **How to Run**
+## ⚙️ How to Run
 
 Save the code as calculator.py
 
 Open terminal and run: python calculator.py
 
 
-##📸 **Example Output**
+## 📸  Example Output 
 🔹 Welcome to the Basic Calculator 🔹
 Select operation:
 1. Addition (+)
@@ -94,6 +94,6 @@ Enter second number: 8
 Result: 12.0 + 8.0 = 20.0
 
 
-##👤** Author **
+## 👤 Author  
 
 Mayank Sharma
